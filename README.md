@@ -1,6 +1,19 @@
-# LA fire maps
+# LA fire recent satellite imagery
 
 This is a way to make Maxar open data easier to view on the web so people can see if their house burned down.
+
+Additional images are available from Maxar's open data with a free account, these above are some partial regions of the available data for quick access.
+
+Also I expect them to have updated imagery in the coming days.
+
+## Images
+
+<ul>
+    <li><a href="images/1050010040277500.html">Los Angeles Palisades Fire, 2025-01-10 10:36 AM Pacific</a></li>
+    <li><a href="images/1050010040277300.html">Los Angeles Eaton Fire, 2025-01-10 10:36 AM Pacific</a></li>
+</ul>
+
+---
 
 ### Accessing the Maxar imagery directly
 
