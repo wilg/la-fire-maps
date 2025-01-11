@@ -18,3 +18,5 @@ vips dzsave infile.tif ./images/id
 ```
 
 and copy and tweak the html file
+
+ Any help is welcome improving this, I will not be able to keep it up to date.
