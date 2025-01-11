@@ -7,7 +7,11 @@ https://xpress.maxar.com
 
 TL;DR sign up for the free account, then click the second strange button in the toolbar to see the open data events, pick LA fires, and then there will be a series of images taken at different times and regions (some of which seem like very strange choices) and then you can zoom in via the web view or download the original "Visual Image" of an "ARD tile" of interest which is gigantic and will look blurry and break most programs except photoshop.
 
-This is a way to make those easier to view.
+This is a way to make those easier to view on the web so people can see if their house burned down.
+
+#### Adding new images
+
+Generate a dzi image pyramid with vips.
 
 ```
 vips dzsave infile.tif ./images/id
