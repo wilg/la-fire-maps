@@ -1,6 +1,6 @@
 # LA fires recent satellite imagery
 
-This is a way to make Maxar open data easier to view on the web so people can see if their house burned down.
+This is a way to make Maxar open data easier to view on the web so people can check on their houses.
 
 Additional images are available from Maxar's open data with a free account, these above are some partial regions of the available data for quick access.
 
