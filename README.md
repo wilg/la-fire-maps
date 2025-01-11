@@ -21,7 +21,7 @@ For more information on the fire, I recommend [Watchduty](https://app.watchduty.
 
 Maxar has some satellite imagery of the Palisades and Eaton fires that is high resolution and as recent as 10:30AM on the 10th.
 
-1. Visit https://xpress.maxar.com and sign up for a free account.
+1. Visit [https://xpress.maxar.com](https://xpress.maxar.com) and sign up for a free account.
 
 2. Click the "Open Data" button in the sidebar.
 
@@ -33,7 +33,8 @@ Maxar has some satellite imagery of the Palisades and Eaton fires that is high r
 
 5. Browse the imagery in their web view. Or you can download the original "Visual Image" of an "ARD tile" of interest. These images are gigantic and will look blurry and break most programs except Photoshop.
 
-#### Adding new images
+## Contributing
+### Adding new images
 
 Generate a dzi image pyramid with vips.
 
