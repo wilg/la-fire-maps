@@ -13,6 +13,8 @@ Also I expect them to have updated imagery in the coming days.
     <li><a href="images/1050010040277300.html">Los Angeles Eaton Fire, 2025-01-10 10:36 AM Pacific</a></li>
 </ul>
 
+For more information on the fire, I recommend [Watchduty](https://app.watchduty.org/).
+
 ---
 
 ### Accessing the Maxar imagery directly
