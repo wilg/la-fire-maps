@@ -35,7 +35,11 @@
             tileSources: "1050010040277500.dzi",
             showNavigator: true, // Adds a small navigator window
             zoomPerClick: 2,    // Adjust zoom level per click
-            animationTime: 1.2, // Smooth animation time
+            animationTime: 1.2,
+            getTileUrl: function (level, x, y) {
+                const baseUrl = this.buildTileUrl(level, x, y);
+                return `${baseUrl}?v2`;
+            }
         });
     </script>
 </body>

@@ -45,7 +45,9 @@ Maxar has some satellite imagery of the Palisades and Eaton fires that is high r
 Generate a dzi image pyramid with vips.
 
 ```
-vips dzsave infile.tif ./images/id
+gdalbuildvrt my_mosaic.vrt *_visual-image.tif
+gdalwarp my_mosaic.vrt final_mosaic_visual.tif -co COMPRESS=DEFLATE -multi
+vips dzsave final_mosaic_visual.tif ./images/id
 ```
 
 and copy and tweak the html file

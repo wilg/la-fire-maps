@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2025-01-11T00:41:54.219562-08" version="8.16.0">
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2025-01-11T23:25:24.966700-08" version="8.16.0">
   <properties>
     <property>
       <name>width</name>
-      <value type="gint">17408</value>
+      <value type="gint">50176</value>
     </property>
     <property>
       <name>height</name>
-      <value type="gint">17408</value>
+      <value type="gint">50176</value>
     </property>
     <property>
       <name>bands</name>
@@ -35,7 +35,7 @@
     </property>
     <property>
       <name>n-pages</name>
-      <value type="gint">14</value>
+      <value type="gint">1</value>
     </property>
     <property>
       <name>bits-per-sample</name>
