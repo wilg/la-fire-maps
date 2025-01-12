@@ -28,19 +28,21 @@
     <div id="openseadragon"></div>
     <div id="source">Los Angeles Eaton Fire, 2025-01-10 10:36 AM Pacific, 2025-01-10 18:36:02Z <a href="../">More Info</a></div>
     <script>
-        // Initialising the OpenSeadragon viewer
-        const viewer = OpenSeadragon({
-            id: "openseadragon",
-            prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/3.0.0/images/",
-            tileSources: "1050010040277300.dzi",
-            showNavigator: true, // Adds a small navigator window
-            zoomPerClick: 2,    // Adjust zoom level per click
-            animationTime: 1.2, // Smooth animation time
-            getTileUrl: function (level, x, y) {
-                const baseUrl = this.buildTileUrl(level, x, y);
-                return `${baseUrl}?v2`;
-            }
-        });
+      const viewer = OpenSeadragon({
+        id: "openseadragon",
+        prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/3.0.0/images/",
+        tileSources: {
+          type: "image",
+          url: "1050010040277300.dzi",
+          getTileUrl: function (level, x, y) {
+            const baseUrl = this.buildTileUrl(level, x, y);
+            return `${baseUrl}?v2`;
+          }
+        },
+        showNavigator: true,
+        zoomPerClick: 2,
+        animationTime: 1.2
+      });
     </script>
 </body>
 </html>
