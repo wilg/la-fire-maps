@@ -48,4 +48,4 @@ vips dzsave infile.tif ./images/id
 
 and copy and tweak the html file
 
-Any help is welcome improving this, [make a PR or issue on GitHub](https://github.com/wilg/la-fire-maps) or notify me somehow.
+Any help is welcome improving this, [make a PR or issue on GitHub](https://github.com/wilg/la-fire-maps) or [notify me somehow](http://wilgieseler.com).
