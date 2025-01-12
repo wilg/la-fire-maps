@@ -11,18 +11,22 @@
         flex-direction: column;
         height: 100vh;
         margin: 0;
+        font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
       }
       #openseadragon {
         flex: 1 1 auto;
       }
       #source {
         flex: 0 0 auto;
+        padding: 5px;
+          text-align: center;
+        font-size: 12px;
       }
     </style>
 </head>
 <body>
     <div id="openseadragon"></div>
-    <div id="source">Los Angeles Eaton Fire, 2025-01-10 10:36 AM Pacific, 2025-01-10 18:36:02Z <a href="https://www.maxar.com/open-data">from Maxar Open Data</a></div>
+    <div id="source">Los Angeles Eaton Fire, 2025-01-10 10:36 AM Pacific, 2025-01-10 18:36:02Z <a href="../">More Info</a></div>
     <script>
         // Initialising the OpenSeadragon viewer
         const viewer = OpenSeadragon({
