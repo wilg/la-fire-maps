@@ -4,7 +4,7 @@
 
 The images are available from Maxar's open data with a free account, but you have to sign up and isn't super quick and doesn't work very well on the phone.
 
-I've copied **just a few** of the images they've taken for quick reference.
+I've copied **the main two** images they've taken for quick reference.
 
 I'm not sure if they have stopped releasing open images of this event or if there will be updated imagery in the future.
 
