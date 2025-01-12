@@ -2,11 +2,13 @@
 
 [Maxar](https://maxar.com/) is a company that sells various satellite photo products. They make some data available for emergency situations.
 
-The images are available from Maxar's open data with a free account, but you have to sign up and isn't super quick and doesnt work very well on the phone.
+The images are available from Maxar's open data with a free account, but you have to sign up and isn't super quick and doesn't work very well on the phone.
 
 I've copied **just a few** of the images they've taken for quick reference.
 
 I'm not sure if they have stopped releasing open images of this event or if there will be updated imagery in the future.
+
+You may be able to contact them to see if they can make more imagery available, or perhaps purchase some, I'm not exactly sure.
 
 ## Selected images for quick reference
 
