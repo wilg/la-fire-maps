@@ -1,10 +1,12 @@
 # LA fires recent satellite imagery
 
-This is a way to make Maxar open data easier to view on the web so people can check on their houses.
+[Maxar](https://maxar.com/) is a company that sells various satellite photo products. They make some data available for emergency situations.
 
-Additional images are available from Maxar's open data with a free account, these above are some partial regions of the available data for quick access.
+The images are available from Maxar's open data with a free account, but you have to sign up and isn't super quick and doesnt work very well on the phone.
 
-Also I expect them to have updated imagery in the coming days.
+I've copied **just a few** of the images they've taken for quick reference.
+
+I'm not sure if they have stopped releasing open images of this event or if there will be updated imagery in the future.
 
 ## Selected images for quick reference
 
@@ -13,7 +15,9 @@ Also I expect them to have updated imagery in the coming days.
     <li><a href="images/1050010040277300.html">Los Angeles Eaton Fire, 2025-01-10 10:36 AM Pacific</a></li>
 </ul>
 
-For more information on the fire, I recommend [Watchduty](https://app.watchduty.org/).
+Please don't rely on this imagery remaining up to date.
+
+For more information on the fire generally, I recommend [Watchduty](https://app.watchduty.org/).
 
 ---
 
@@ -44,4 +48,4 @@ vips dzsave infile.tif ./images/id
 
 and copy and tweak the html file
 
- Any help is welcome improving this, I will not be able to keep it up to date.
+Any help is welcome improving this, [make a PR or issue on GitHub](https://github.com/wilg/la-fire-maps) or notify me somehow.
