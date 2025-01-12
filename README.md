@@ -21,6 +21,10 @@ Please don't rely on this imagery remaining up to date.
 
 For more information on the fire generally, I recommend [Watchduty](https://app.watchduty.org/).
 
+## Updates
+
+- Updated both fires to include more area, but the time the photo was taken is the same.
+
 ---
 
 ### Accessing the Maxar imagery directly
