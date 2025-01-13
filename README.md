@@ -1,5 +1,29 @@
 # LA fires recent satellite imagery
 
+
+<a href="images/1050010040277500.html">
+    🔎 Los Angeles Palisades Fire<br> Friday, 2025-01-10 10:36 AM Pacific<br>
+    <img src="preview-palisades.jpeg" width="300">
+</a>
+
+---
+
+<a href="images/1050010040277300.html">
+    🔎 Los Angeles Eaton Fire<br> Friday, 2025-01-10 10:36 AM Pacific<br>
+    <img src="preview-eaton.jpeg" width="300">
+</a>
+
+---
+
+For detailed fire information, I recommend [Watchduty](https://app.watchduty.org/).
+
+
+### Updates
+
+- Updated both fires to include more area, but the time the photo was taken is the same.
+
+## Source
+
 [Maxar](https://maxar.com/) is a company that sells various satellite photo products. They make some data available for emergency situations.
 
 The images are available from Maxar's open data with a free account, but you have to sign up and isn't super quick and doesn't work very well on the phone.
@@ -9,28 +33,6 @@ I've copied **the main two** images they've taken for quick reference.
 I'm not sure if they have stopped releasing open images of this event or if there will be updated imagery in the future.
 
 You may be able to contact them to see if they can make more imagery available, or perhaps purchase some, I'm not exactly sure.
-
-## Selected images for quick reference
-
-Note the times. Please don't rely on this imagery remaining up to date.
-
-For more information on the fire generally, I recommend [Watchduty](https://app.watchduty.org/).
-
-<a href="images/1050010040277500.html">
-    🔎 Los Angeles Palisades Fire, Friday, 2025-01-10 10:36 AM Pacific<br>
-    <img src="preview-palisades.jpeg" width="300">
-</a>
-
-<br>
-
-<a href="images/1050010040277300.html">
-    🔎 Los Angeles Eaton Fire, Friday, 2025-01-10 10:36 AM Pacific<br>
-    <img src="preview-eaton.jpeg" width="300">
-</a>
-
-## Updates
-
-- Updated both fires to include more area, but the time the photo was taken is the same.
 
 ---
 
