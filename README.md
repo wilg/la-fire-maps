@@ -12,14 +12,21 @@ You may be able to contact them to see if they can make more imagery available, 
 
 ## Selected images for quick reference
 
-<ul>
-    <li><a href="images/1050010040277500.html">Los Angeles Palisades Fire, Friday, 2025-01-10 10:36 AM Pacific</a></li>
-    <li><a href="images/1050010040277300.html">Los Angeles Eaton Fire, Friday, 2025-01-10 10:36 AM Pacific</a></li>
-</ul>
-
-Please don't rely on this imagery remaining up to date.
+Note the times. Please don't rely on this imagery remaining up to date.
 
 For more information on the fire generally, I recommend [Watchduty](https://app.watchduty.org/).
+
+<a href="images/1050010040277500.html">
+    🔎 Los Angeles Palisades Fire, Friday, 2025-01-10 10:36 AM Pacific
+    <img src="preview-palisades.jpeg">
+</a>
+
+<br>
+
+<a href="images/1050010040277300.html">
+    🔎 Los Angeles Eaton Fire, Friday, 2025-01-10 10:36 AM Pacific
+    <img src="preview-eaton.jpeg">
+</a>
 
 ## Updates
 
