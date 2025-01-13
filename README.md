@@ -18,14 +18,14 @@ For more information on the fire generally, I recommend [Watchduty](https://app.
 
 <a href="images/1050010040277500.html">
     🔎 Los Angeles Palisades Fire, Friday, 2025-01-10 10:36 AM Pacific
-    <img src="preview-palisades.jpeg">
+    <img src="preview-palisades.jpeg" width="300">
 </a>
 
 <br>
 
 <a href="images/1050010040277300.html">
     🔎 Los Angeles Eaton Fire, Friday, 2025-01-10 10:36 AM Pacific
-    <img src="preview-eaton.jpeg">
+    <img src="preview-eaton.jpeg" width="300">
 </a>
 
 ## Updates
