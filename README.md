@@ -1,6 +1,6 @@
 # LA fires recent satellite imagery
 
-Update: LAFD is conducting damage assessments of homes. More information is available at https://recovery.lacounty.gov/
+> ⚠️ Update: LAFD is conducting damage assessments of homes. More information is available at [recovery.lacounty.gov](https://recovery.lacounty.gov/)
 
 <a href="images/1050010040277500.html">
     🔎 Los Angeles Palisades Fire<br> Friday, 2025-01-10 10:36 AM Pacific<br>
@@ -21,7 +21,7 @@ For detailed fire information, I recommend [Watchduty](https://app.watchduty.org
 
 ### Updates
 
-- Added link to https://recovery.lacounty.gov/
+- Added link to [recovery.lacounty.gov](https://recovery.lacounty.gov/)
 - Updated both fires to include more area, but the time the photo was taken is the same.
 
 ## Source
