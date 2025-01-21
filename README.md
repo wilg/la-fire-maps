@@ -1,12 +1,8 @@
 # LA fires recent satellite imagery
 
-## ⚠️ NEWER IMAGES ARE AVAILABLE
+Last updated 2025-01-20 with imagery from 2025-01-16.
 
-Newer images, from 2025-01-16 and 2025-01-15 have been added to Maxar's open data. However, these cover a much larger area (much of which are not fire areas) and are like 50GB which is difficult to rehost.
-
-### **Until I figure out a solution, please sign up for a free Maxar account (instructions below) to access more recent images.**.
-
-Also: LAFD is conducting damage assessments of homes. More information is available at [recovery.lacounty.gov](https://recovery.lacounty.gov/)
+LAFD is conducting damage assessments of homes which may have more detailed information about your property. More information is available at [recovery.lacounty.gov](https://recovery.lacounty.gov/)
 
 ## Thursday, 2025-01-16 10:53 AM Pacific
 
