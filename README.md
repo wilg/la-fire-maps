@@ -31,9 +31,11 @@ For detailed fire information, I recommend [Watchduty](https://app.watchduty.org
 
 [Maxar](https://maxar.com/) is a company that sells various satellite photo products. They make some data available for emergency situations.
 
+They take pictures for customers, and also apparently release open data of their choosing. I don't know or control when they update it.
+
 The images are available from Maxar's open data with a free account, but you have to sign up and isn't super quick and doesn't work very well on the phone.
 
-I've copied **the main two** images they've taken for quick reference.
+I've copied the main images here they've taken for quick reference and processed them for quick viewing.
 
 I'm not sure if they have stopped releasing open images of this event or if there will be updated imagery in the future.
 
@@ -64,7 +66,7 @@ Generate a dzi image pyramid with vips.
 
 ```
 gdalbuildvrt my_mosaic.vrt *_visual-image.tif
-gdalwarp my_mosaic.vrt final_mosaic_visual.tif -co COMPRESS=DEFLATE -multi
+gdalwarp my_mosaic.vrt final_mosaic_visual.tif -co COMPRESS=DEFLATE -co BIGTIFF=YES -multi
 vips dzsave final_mosaic_visual.tif ./images/id
 ```
 
