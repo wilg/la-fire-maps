@@ -1,10 +1,14 @@
 # LA fires recent satellite imagery
 
-> ⚠️ Update: Newer images, from 2025-01-16 and 2025-01-15 have been added to Maxar's open data. I will attempt to add them here soon.
+## ⚠️ NEWER IMAGES ARE AVAILABLE
 
-> ⚠️ Update: LAFD is conducting damage assessments of homes. More information is available at [recovery.lacounty.gov](https://recovery.lacounty.gov/)
+Newer images, from 2025-01-16 and 2025-01-15 have been added to Maxar's open data. However, these cover a much larger area (much of which are not fire areas) and are like 50GB which is difficult to rehost.
 
-### Friday, 2025-01-10 10:36 AM Pacific
+### **Until I figure out a solution, please sign up for a free Maxar account (instructions below) to access more recent images.**.
+
+Also: LAFD is conducting damage assessments of homes. More information is available at [recovery.lacounty.gov](https://recovery.lacounty.gov/)
+
+## Friday, 2025-01-10 10:36 AM Pacific
 
 - <a href="images/1050010040277500.html">
     🔎 Los Angeles Palisades Fire,  Friday, 2025-01-10 10:36 AM Pacific<br>
