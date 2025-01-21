@@ -1,5 +1,6 @@
 # LA fires recent satellite imagery
 
+> ⚠️ Update: Newer images, from 2025-01-16 and 2025-01-15 have been added to Maxar's open data. I will attempt to add them here soon.
 > ⚠️ Update: LAFD is conducting damage assessments of homes. More information is available at [recovery.lacounty.gov](https://recovery.lacounty.gov/)
 
 <a href="images/1050010040277500.html">
@@ -21,6 +22,7 @@ For detailed fire information, I recommend [Watchduty](https://app.watchduty.org
 
 ### Updates
 
+- 2025-01-20: Noted newer images are now available at Maxar
 - Added link to [recovery.lacounty.gov](https://recovery.lacounty.gov/)
 - Updated both fires to include more area, but the time the photo was taken is the same.
 
