@@ -8,6 +8,20 @@ Newer images, from 2025-01-16 and 2025-01-15 have been added to Maxar's open dat
 
 Also: LAFD is conducting damage assessments of homes. More information is available at [recovery.lacounty.gov](https://recovery.lacounty.gov/)
 
+## Thursday, 2025-01-16 10:53 AM Pacific
+
+- <a href="images/105001004042BF00.html">
+    🔎 Los Angeles Palisades Fire, Thursday, 2025-01-16 10:53 AM Pacific<br>
+    <img src="images/105001004042BF00-preview.jpeg" width="400">
+</a>
+
+## Wednesday, 2025-01-15 10:52 AM Pacific
+
+- <a href="images/10400100A26E9900.html">
+    🔎 Los Angeles Eaton Fire, Wednesday, 2025-01-15 10:52 AM Pacific<br>
+    <img src="images/10400100A26E9900-preview.jpeg" width="150">
+</a>
+
 ## Friday, 2025-01-10 10:36 AM Pacific
 
 - <a href="images/1050010040277500.html">
