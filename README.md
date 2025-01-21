@@ -8,12 +8,12 @@
 
 <a href="images/1050010040277500.html">
     🔎 Los Angeles Palisades Fire<br> Friday, 2025-01-10 10:36 AM Pacific<br>
-    <img src="preview-palisades.jpeg" width="100">
+    <img src="images/1050010040277500-preview.jpeg" width="100">
 </a>
 
 <a href="images/1050010040277300.html">
     🔎 Los Angeles Eaton Fire<br> Friday, 2025-01-10 10:36 AM Pacific<br>
-    <img src="preview-eaton.jpeg" width="100">
+    <img src="images/1050010040277300-preview.jpeg" width="100">
 </a>
 
 ---
